@@ -9,5 +9,5 @@ title: Home
         {{ item.name }}
       </a>
     {% endfor %}
-  </nav>
+</nav>
 <h1>Hello</h1>
